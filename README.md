@@ -1,5 +1,6 @@
 ### I'm Nathan 
-- :bar_chart: Member of LAMIA
+
+-:bar_chart: Member of LAMIA
 
 -🎓 I'm currently studying Computer Science
 
