@@ -18,7 +18,6 @@
  <img alt="Next.js" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
  <img alt="React.js" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="SASS" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
- <img alt="Material UI" src="https://img.shields.io/badge/mui-%230d1117.svg?style=for-the-badge&logo=mui"/>
  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
