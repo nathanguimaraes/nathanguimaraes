@@ -1,4 +1,6 @@
 
+ 
+
 ## about.me
 <p align="justify">
 -🎓 I'm currently studying Computer Science
@@ -7,6 +9,8 @@
 
 -✍️ In my free time, I practical physical exercises
 </p>
+
+ 
 
 ## techs && skills
 <p align="justify"><a href="https://"">
@@ -28,7 +32,7 @@
 ## social && contact
 <p align="justify">
 <a href="https://www.linkedin.com/in/nathan-guimar%C3%A3es-a19b2414b/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://instagram.com/natthan_zip?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/guilherme.bermeo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
+<a href="https://instagram.com/natthan_zip?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/natthan_zip-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
 
 <!-- <a href=""><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a> -->
 <!-- <a href=""><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a> -->
@@ -39,3 +43,5 @@
 
 <!--[![ Holopin board](https://holopin.me/)](https://holopin.io/)
 --> 
+
+
