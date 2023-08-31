@@ -7,7 +7,7 @@
 
 -🌱 I'm constantly learning technologies
 
--✍️ In my free time, I practical physical exercises
+-✍️ In my free time, I practice physical exercises
 </p>
 
  
