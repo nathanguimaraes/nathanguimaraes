@@ -3,7 +3,7 @@
 
 ## about.me
 <p align="justify">
--🎓 I'm currently studying Computer Science
+-🎓 I'm currently studying Computer Science - UTFPR
 
 -🌱 I'm constantly learning technologies
 
